@@ -11,6 +11,8 @@
     [physicsNode addChild:character];
     
     [self addObstacle];
+    [self addObstacle];
+    [self addObstacle];
 }
 
 -(void)update:(CCTime)delta
